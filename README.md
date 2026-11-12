@@ -289,16 +289,18 @@ responsible disclosure and research.
 
 ---
 
-<!-- ===================================================== -->
-<!--                    GITHUB TROPHIES                    -->
-<!-- ===================================================== -->
+<!-- ===================== GITHUB TROPHIES ===================== -->
 
 <h2 align="center">08. GitHub Trophies</h2>
 
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://gh-trophy.cdnsoft.net/?username=bughir0&theme=algolia&no-frame=true&margin-w=8&margin-h=8&column=7" width="100%" alt="GitHub Trophies"/>
+<img
+src="https://trophy.ryglcloud.net/?username=bughir0&theme=algolia&no-frame=true&margin-w=8&margin-h=8&column=7"
+width="100%"
+alt="GitHub Trophies"
+/>
 </a>
 
 </div>
@@ -327,21 +329,22 @@ responsible disclosure and research.
 
 ---
 
-<!-- ===================================================== -->
-<!--                    CONTRIBUTION ACTIVITY              -->
-<!-- ===================================================== -->
+<!-- ===================== CONTRIBUTION ACTIVITY ===================== -->
 
-<h2 align="center">10. Contribution Activity</h2>
+<h2 align="center">10. GitHub Contribution Analytics</h2>
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=bughir0&bg_color=0d1117&color=58a6ff&line=2563eb&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity"
-  width="100%"
-  alt="GitHub Contribution Activity"
-/>
+<a href="https://gitshine.com/stats/bughir0">
+  <img
+    src="https://gitshine.com/card/bughir0?theme=night"
+    width="100%"
+    alt="Hiro GitHub Contribution Activity"
+  />
+</a>
 
 </div>
+
 
 ---
 
